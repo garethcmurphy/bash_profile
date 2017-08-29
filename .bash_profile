@@ -62,13 +62,6 @@ alias rm='rm -i'
 alias grep="grep --color=auto"
 export GREP_OPTIONS="--color=always"
 
-export SECRET_KEY="5(15ds+i2+%ik6z&!yer+ga9m=e%jcqiz_5wszg)r-z!2--b2d"
-export DB_NAME=postgres
-export DB_USER=postgres
-export DB_PASS=postgres
-export DB_SERVICE=db
-export DB_PORT=5432
-export CDF_LIB=/lib
 
 
 
