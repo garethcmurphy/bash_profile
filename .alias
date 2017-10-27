@@ -1,0 +1,10 @@
+alias cp='cp -i'
+alias rm='rm -i'
+alias grep="grep --color=auto"
+alias gitlog="git log --oneline -20 "
+alias gitlog="git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --date=short"
+alias mvim=/Applications/MacVim.app/Contents/bin/mvim
+alias ls='ls -GFh'
+alias ltm="CLICOLOR_FORCE=1 ls -Gtl  | less -R"
+alias ssh0="ssh ssh0"
+alias sshk="ssh kubetest01"
